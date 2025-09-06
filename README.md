@@ -1,5 +1,4 @@
 # My Cybersecurity Notes
 
-## Sections
 
-- [ChatGPT](./by-chatgpt)
+- [Awesome Cybersecurity References](awesome-cybersecurity-references.md)
